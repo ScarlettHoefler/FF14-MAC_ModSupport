@@ -103,7 +103,7 @@ Setup Guide:
 <p align="center"> 
 <img src="https://i.imgur.com/WQjov2b.png">
  <br>
- NOTE: If you have having trouble logging in with a Windows or Steam account, please see [Step 7](##STEP 7: (optional) - Using your FF14 Windows license on Mac or Windows Steaam account:)
+ NOTE: If you have having trouble logging in with a Windows or Steam account, please see [Step 7](#step-7)
 </p><br>
   Once game has completely installed, you can launch XIVLauncher from your new Crossover bottle to 
  start your game or drag the XIVLauncher icon to your Mac OS dock<br><br>
